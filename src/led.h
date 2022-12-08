@@ -6,8 +6,8 @@ class led {
     public:
     led();
     ~led();
-    void led_hidup():
-    void led_mati():
+    void led_hidup();
+    void led_mati();
 
 };
 
